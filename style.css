@@ -159,7 +159,7 @@ a:hover {
 
 .d-bloc .btn-wire,
 .d-bloc .btn-wire:hover {
-    color: rgba(255, 255, 255, 1);
+    color: bla(255, 255, 255, 1);
     border-color: rgba(255, 255, 255, 1);
 }
 
@@ -278,9 +278,6 @@ a:hover {
     font-size: 15px;
 }
 
-.voffset-lg {
-    margin-top: 80px;
-}
 
 .row-no-gutters {
     margin-right: 0;
