@@ -719,6 +719,11 @@ p {
     padding: 5px;
 }
 
+a {
+    color: #303030;
+}
+
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
