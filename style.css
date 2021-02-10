@@ -309,8 +309,7 @@ a:hover {
 }
 
 .navbar-brand img {
-    height: 300px;
-    width: 300px;
+    max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -848,6 +847,7 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
+
 
 
 @media (max-width: 1024px) {
