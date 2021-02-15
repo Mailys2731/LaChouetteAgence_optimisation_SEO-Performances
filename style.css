@@ -822,6 +822,9 @@ h4 {
 .ltc-atomic-tangerine:hover {
     color: #c27956!important;
 }
+.bgc-atomic-tangerine {
+    background: #F3976C;
+}
 
 .icon-dark-slate-blue {
     color: #364577!important;
